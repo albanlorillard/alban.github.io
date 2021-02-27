@@ -17,10 +17,10 @@ function App() {
             <main>
                 <div className="center">
                     <h1>Alban Lorillard</h1>
-                    <h2>Ingénieur logiciel web & mobile pour <a href="https://ouitalk.oui.sncf/le-groupe/qui-sommes-nous" target="_blank">E-Voyageur SNCF</a></h2>
+                    <h2>Ingénieur logiciel @<a href="https://ouitalk.oui.sncf/le-groupe/qui-sommes-nous" target="_blank">E-Voyageur SNCF</a></h2>
                     <p>
                         <ul>
-                            <li>Diplômé en ingénieurie informatique à <a href="https://polytech.univ-nantes.fr/" target="_blank">Polytech Nantes - Bac+5</a></li>
+                            <li>Diplômé en ingénierie informatique à <a href="https://polytech.univ-nantes.fr/" target="_blank">Polytech Nantes</a> - Bac+5</li>
                             <li>Diplômé en innovation et transformation numérique à l'<a href="https://www.disruptcampusnantes.com/" target="_blank">Université de Nantes</a> - Bac+5</li>
                         </ul>
                     </p>
