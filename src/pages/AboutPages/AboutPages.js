@@ -1,6 +1,6 @@
 import './App.scss';
 
-function App() {
+function AboutPages() {
     return (
         <div className="App">
             <header>
@@ -31,27 +31,9 @@ function App() {
                         </ul>
                     </p>
                 </div>
-
-                <div className="slide2">
-                    <h3>Expériences</h3>
-
-                    <h4>Projets</h4>
-                    <ul>
-                        <li>
-                            <span className="projects-title"></span>
-                            <span className="projects-descriptions"></span>
-                            <span className="projects-keywords"></span>
-                        </li>
-                    </ul>
-                    <h4>Articles</h4>
-                    <h4>Talks</h4>
-                </div>
-
-
             </main>
-            <footer>Dans une démarche low-tech et écologique, ce site est volontairement minimaliste.</footer>
         </div>
     );
 }
 
-export default App;
+export default AboutPages;
