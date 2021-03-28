@@ -1,6 +1,6 @@
 import './App.scss';
 
-function App() {
+function AboutPages() {
     return (
         <div className="App">
             <header>
@@ -23,7 +23,7 @@ function App() {
             <main>
                 <div className="slide1">
                     <h1>Alban Lorillard</h1>
-                    <h2>Ingénieur logiciel @<a href="https://ouitalk.oui.sncf/le-groupe/qui-sommes-nous" target="_blank">E-Voyageur SNCF</a> - Mentor @<a href="https://openclassrooms.com/fr/">Openclassrooms</a></h2>
+                    <h2>Ingénieur logiciel @<a href="https://ouitalk.oui.sncf/le-groupe/qui-sommes-nous" target="_blank">E-Voyageur SNCF</a></h2>
                     <p>
                         <ul>
                             <li>Diplômé en ingénierie informatique à <a href="https://polytech.univ-nantes.fr/" target="_blank">Polytech Nantes</a> - Bac+5</li>
@@ -31,11 +31,9 @@ function App() {
                         </ul>
                     </p>
                 </div>
-
             </main>
-            <footer>Dans une démarche low-tech et écologique, ce site est volontairement minimaliste.</footer>
         </div>
     );
 }
 
-export default App;
+export default AboutPages;
