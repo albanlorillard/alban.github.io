@@ -16,14 +16,14 @@ function App() {
             <nav className="internalNavigation">
                 <ul>
                     <li> &gt; A propos </li>
-                    <li>Articles</li>
-                    <li>Ressources</li>
+                    {/*<li>Articles</li>*/}
+                    {/*<li>Ressources</li>*/}
                 </ul>
             </nav>
             <main>
                 <div className="slide1">
                     <h1>Alban Lorillard</h1>
-                    <h2>Ingénieur logiciel @<a href="https://ouitalk.oui.sncf/le-groupe/qui-sommes-nous" target="_blank">E-Voyageur SNCF</a></h2>
+                    <h2>Ingénieur logiciel @<a href="https://ouitalk.oui.sncf/le-groupe/qui-sommes-nous" target="_blank">E-Voyageur SNCF</a> - Mentor @<a href="https://openclassrooms.com/fr/">Openclassrooms</a></h2>
                     <p>
                         <ul>
                             <li>Diplômé en ingénierie informatique à <a href="https://polytech.univ-nantes.fr/" target="_blank">Polytech Nantes</a> - Bac+5</li>
@@ -31,22 +31,6 @@ function App() {
                         </ul>
                     </p>
                 </div>
-
-                <div className="slide2">
-                    <h3>Expériences</h3>
-
-                    <h4>Projets</h4>
-                    <ul>
-                        <li>
-                            <span className="projects-title"></span>
-                            <span className="projects-descriptions"></span>
-                            <span className="projects-keywords"></span>
-                        </li>
-                    </ul>
-                    <h4>Articles</h4>
-                    <h4>Talks</h4>
-                </div>
-
 
             </main>
             <footer>Dans une démarche low-tech et écologique, ce site est volontairement minimaliste.</footer>

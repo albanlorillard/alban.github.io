@@ -16,8 +16,8 @@ function AboutPages() {
             <nav className="internalNavigation">
                 <ul>
                     <li> &gt; A propos </li>
-                    <li>Articles</li>
-                    <li>Ressources</li>
+                    {/*<li>Articles</li>*/}
+                    {/*<li>Ressources</li>*/}
                 </ul>
             </nav>
             <main>
