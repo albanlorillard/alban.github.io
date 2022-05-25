@@ -32,7 +32,6 @@ const IndexPage = () => {
 
   return (
 
-    
         <main class="mainPage">
 
         <HeaderComponent 
